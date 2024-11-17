@@ -60,3 +60,13 @@ li {
     line-height: 2;
     letter-spacing: 1px;
 }
+
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: #324028;
+}
+
+a:hover {
+    color: white;
+}
