@@ -1,2 +1,2 @@
 # chefmomo47.github.io
-test website hosting
+This is a little playground website of a frontend dev in spe doing their first steps.
